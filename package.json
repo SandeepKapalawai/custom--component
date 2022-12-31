@@ -24,17 +24,17 @@
         "@babel/preset-react": "^7.0.0",
         "@storybook/addon-info": "^4.1.11",
         "@storybook/components": "^4.1.11",
-        "@storybook/react": "^4.1.11",
+        "@storybook/react": "^6.5.15",
         "babel-loader": "^8.0.5",
         "clean-webpack-plugin": "^1.0.1",
-        "css-loader": "^2.1.1",
+        "css-loader": "^6.7.3",
         "node-sass": "^7.0.0",
         "react": "^16.7.0",
-        "sass-loader": "^7.3.1",
+        "sass-loader": "^13.2.0",
         "storybook-addon-jsx": "^6.0.0",
-        "style-loader": "^0.23.1",
+        "style-loader": "^3.3.1",
         "uglifyjs-webpack-plugin": "^2.1.1",
-        "webpack": "^4.29.0",
-        "webpack-cli": "^3.2.1"
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1"
     }
 }
